@@ -1,2 +1,2 @@
-# projeto02-desafio-intermedi-rio-sem-ntica-e-acessibilidade
+# projeto02-desafio-intermediario-semantica-e-acessibilidade
 Rocketseat
